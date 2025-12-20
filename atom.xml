@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>萌哩番剧</title>
+  <icon>https://anime.moely.link/img/favicon.png</icon>
+  <subtitle>优质番剧推荐。戳中你的萌点，荐你所爱。</subtitle>
+  <link href="https://anime.moely.link/atom.xml" rel="self"/>
+  
+  <link href="https://anime.moely.link/"/>
+  <updated>2025-12-20T14:09:21.495Z</updated>
+  <id>https://anime.moely.link/</id>
+  
+  <author>
+    <name>萌哩番剧</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://anime.moely.link/posts/4a17b156/"/>
+    <id>https://anime.moely.link/posts/4a17b156/</id>
+    <published>2025-12-20T14:09:21.495Z</published>
+    <updated>2025-12-20T14:09:21.495Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
