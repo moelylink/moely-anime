@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://anime.moely.link/manifest.json</loc>
-    
-    <lastmod>2026-01-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://anime.moely.link/links/</loc>
-    
-    <lastmod>2026-01-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://anime.moely.link/policy/</loc>
     
     <lastmod>2026-01-01</lastmod>
@@ -38,7 +20,34 @@
   </url>
   
   <url>
+    <loc>https://anime.moely.link/manifest.json</loc>
+    
+    <lastmod>2026-01-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/links/</loc>
+    
+    <lastmod>2026-01-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://anime.moely.link/archives/</loc>
+    
+    <lastmod>2026-01-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/about/</loc>
     
     <lastmod>2026-01-01</lastmod>
     
@@ -56,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://anime.moely.link/about/</loc>
+    <loc>https://anime.moely.link/posts/d7d9b185/</loc>
     
     <lastmod>2026-01-01</lastmod>
     
@@ -187,6 +196,34 @@
   </url>
   
   <url>
+    <loc>https://anime.moely.link/tags/%E9%BE%99%E9%AA%91%E5%A3%AB07/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/OVA/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E7%8C%AB%E6%AE%BA%E3%81%97%E7%B7%A8/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/GAL%E6%94%B9/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://anime.moely.link/tags/%E6%B8%B8%E6%88%8F%E6%94%B9/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -194,7 +231,21 @@
   </url>
   
   <url>
-    <loc>https://anime.moely.link/tags/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB/</loc>
+    <loc>https://anime.moely.link/tags/%E4%BB%8A%E5%8D%83%E7%A7%8B/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/studiodeen/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E8%AF%84%E5%88%866/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -209,6 +260,13 @@
   
   <url>
     <loc>https://anime.moely.link/tags/%E6%82%AC%E7%96%91/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -230,20 +288,6 @@
   
   <url>
     <loc>https://anime.moely.link/tags/%E6%9F%B4%E5%88%80/</loc>
-    <lastmod>2026-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://anime.moely.link/tags/studiodeen/</loc>
-    <lastmod>2026-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://anime.moely.link/tags/%E9%BE%99%E9%AA%91%E5%A3%AB07/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -314,13 +358,6 @@
   
   <url>
     <loc>https://anime.moely.link/tags/%E6%B2%BB%E6%84%88/</loc>
-    <lastmod>2026-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://anime.moely.link/tags/%E8%AF%84%E5%88%866/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
