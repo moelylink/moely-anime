@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://anime.moely.link/tags/</loc>
-    
-    <lastmod>2026-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://anime.moely.link/manifest.json</loc>
     
     <lastmod>2026-01-21</lastmod>
@@ -38,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://anime.moely.link/tags/</loc>
+    
+    <lastmod>2026-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://anime.moely.link/about/</loc>
     
     <lastmod>2026-01-21</lastmod>
@@ -57,6 +57,15 @@
   
   <url>
     <loc>https://anime.moely.link/categories/</loc>
+    
+    <lastmod>2026-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/posts/1cd2112b/</loc>
     
     <lastmod>2026-01-21</lastmod>
     
@@ -350,6 +359,55 @@
   </url>
   
   <url>
+    <loc>https://anime.moely.link/tags/%E6%96%A9%C2%B7%E8%B5%A4%E7%BA%A2%E4%B9%8B%E7%9E%B3%EF%BC%81/</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E8%87%B4%E9%83%81/</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E6%88%98%E6%96%97/</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E5%A5%87%E5%B9%BB/</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E7%83%AD%E8%A1%80/</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/WHITEFOX/</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E9%9B%A8%E5%AE%AB%E5%A4%A9/</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://anime.moely.link/tags/%E5%8B%95%E7%94%BB%E5%B7%A5%E6%88%BF/</loc>
     <lastmod>2026-01-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -365,13 +423,6 @@
   
   <url>
     <loc>https://anime.moely.link/tags/%E8%90%8C/</loc>
-    <lastmod>2026-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://anime.moely.link/tags/%E5%A5%87%E5%B9%BB/</loc>
     <lastmod>2026-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
