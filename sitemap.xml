@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://anime.moely.link/links/</loc>
+    
+    <lastmod>2026-01-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://anime.moely.link/policy/</loc>
     
     <lastmod>2026-01-29</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://anime.moely.link/tags/</loc>
-    
-    <lastmod>2026-01-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://anime.moely.link/links/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -57,6 +57,15 @@
   
   <url>
     <loc>https://anime.moely.link/categories/</loc>
+    
+    <lastmod>2026-01-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/posts/8b96d342/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -423,6 +432,27 @@
   
   <url>
     <loc>https://anime.moely.link/tags/%E8%90%8C/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/WITSTUDIO/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E5%AE%B6%E5%BA%AD%E5%96%9C%E5%89%A7/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E5%8F%A4%E6%A1%A5%E4%B8%80%E6%B5%A9/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
