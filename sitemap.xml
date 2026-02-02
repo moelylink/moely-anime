@@ -38,15 +38,6 @@
   </url>
   
   <url>
-    <loc>https://anime.moely.link/archives/</loc>
-    
-    <lastmod>2026-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://anime.moely.link/categories/</loc>
     
     <lastmod>2026-02-02</lastmod>
@@ -57,6 +48,24 @@
   
   <url>
     <loc>https://anime.moely.link/about/</loc>
+    
+    <lastmod>2026-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/archives/</loc>
+    
+    <lastmod>2026-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/posts/7b6e1d23/</loc>
     
     <lastmod>2026-02-02</lastmod>
     
@@ -432,6 +441,20 @@
   
   <url>
     <loc>https://anime.moely.link/tags/%E8%90%8C/</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/A-1Pictures/</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E8%B0%83%E6%95%99%E5%92%96%E5%95%A1%E5%8E%85/</loc>
     <lastmod>2026-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
