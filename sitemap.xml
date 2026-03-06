@@ -65,6 +65,15 @@
   </url>
   
   <url>
+    <loc>https://anime.moely.link/posts/de7960a6/</loc>
+    
+    <lastmod>2026-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://anime.moely.link/posts/7b6e1d23/</loc>
     
     <lastmod>2026-02-02</lastmod>
@@ -441,6 +450,48 @@
   
   <url>
     <loc>https://anime.moely.link/tags/%E8%90%8C/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E6%96%8B%E8%97%A4%E5%9C%AD%E4%B8%80%E9%83%8E/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/MADHouse/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E5%85%AC%E8%B7%AF%E7%89%87/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E5%AF%BF%E5%91%BD%E8%AE%BA/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anime.moely.link/tags/%E5%BC%82%E4%B8%96%E7%95%8C/</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
