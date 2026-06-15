@@ -1,0 +1,37 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/image",
+      "has": [
+        {
+          "type": "host",
+          "value": "(anime.moely.link|moely.link|www.moely.link|user.moely.link)"
+        }
+      ],
+      "destination": "/404-blocked"
+    },
+    {
+      "source": "/image",
+      "has": [
+        {
+          "type": "host",
+          "value": "(bgm.moely.link|localhost|127.0.0.1|.*\\.vercel\\.app)"
+        }
+      ],
+      "destination": "/api/image"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/((?!image$).*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "bgm.moely.link"
+        }
+      ],
+      "destination": "https://anime.moely.link/$1",
+      "permanent": false
+    }
+  ]
+}
