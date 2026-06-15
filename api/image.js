@@ -14,24 +14,27 @@ export default async function handler(req) {
 
   // Security: Check referer to prevent hotlinking from unauthorized domains
   const referer = req.headers.get('referer');
-  if (referer) {
+  if (referer && referer.trim() !== '') {
     try {
-      const refUrl = new URL(referer);
-      const host = refUrl.hostname;
-      // Allow localhost, the main site domain, and Vercel preview environments
-      if (
-        host !== 'anime.moely.link' &&
-        host !== 'moely.link' &&
-        host !== 'www.moely.link' &&
-        host !== 'user.moely.link' &&
-        host !== 'localhost' &&
-        host !== '127.0.0.1' &&
-        !host.endsWith('.vercel.app')
-      ) {
-        return new Response('Forbidden: Referer not allowed', { status: 403 });
+      // Only check HTTP and HTTPS referers. If it's an empty, about:blank, or special scheme, let it pass.
+      if (referer.startsWith('http://') || referer.startsWith('https://')) {
+        const refUrl = new URL(referer);
+        const host = refUrl.hostname;
+        // Allow localhost, the main site domain, and Vercel preview environments
+        if (
+          host !== 'anime.moely.link' &&
+          host !== 'moely.link' &&
+          host !== 'www.moely.link' &&
+          host !== 'user.moely.link' &&
+          host !== 'localhost' &&
+          host !== '127.0.0.1' &&
+          !host.endsWith('.vercel.app')
+        ) {
+          return new Response('Forbidden: Referer not allowed', { status: 403 });
+        }
       }
     } catch (e) {
-      return new Response('Forbidden: Invalid referer', { status: 403 });
+      // Ignore parsing errors and allow the request to proceed (放行异常/空referer)
     }
   }
 
