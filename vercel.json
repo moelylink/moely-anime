@@ -23,7 +23,7 @@
   ],
   "redirects": [
     {
-      "source": "/((?!image$).*)",
+      "source": "/((?!image).*)",
       "has": [
         {
           "type": "host",
