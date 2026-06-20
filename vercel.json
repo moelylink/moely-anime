@@ -33,5 +33,16 @@
       "destination": "https://anime.moely.link/$1",
       "permanent": false
     }
+  ],
+  "headers": [
+    {
+      "source": "/pagefind/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    }
   ]
 }
